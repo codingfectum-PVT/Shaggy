@@ -1,0 +1,49 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+@font-face {
+  font-family: "JAFAROWN";
+  src: url("./fonts/JAFAROWN.otf");
+  }
+.css-wf16b5{background:#B8BF19 !important;}
+.css-hz1bth-MuiDialog-container {
+  background: #0000005c;
+}
+.css-1t1j96h-MuiPaper-root-MuiDialog-paper{background-color: black !important;}
+.css-t752vm{background:#B8BF19 !important;}
+.css-uhb5lp {background-color: #000 !important;}
